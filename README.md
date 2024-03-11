@@ -14,7 +14,7 @@ _Create a GitHub Action and use it in a workflow._
 </header>
 
 <!--
-  <<< Author notes: Step 5 >>> :D
+  <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 
@@ -22,6 +22,8 @@ _Create a GitHub Action and use it in a workflow._
 ## Finish
 
 _Congratulations friend, you've completed this course!_
+
+VDD note: Thanks!!
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
